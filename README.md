@@ -34,6 +34,6 @@
 
 ## 📬 Contact
 - 📧 Email: **gksdidxornjs@gmail.com**  
-- 📒 Notion: [Click Here](https://www.notion.so/your-notion-link-here)
+- 📒 Notion: [Click Here](https://garrulous-maxilla-66f.notion.site/Choi-Jinsoo-12c9bbc7078b8000b58ac32e6824fb5c)
 
 ---
