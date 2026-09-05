@@ -86,16 +86,16 @@ Codex와 Unreal Engine MCP를 구현·디버깅·테스트에 활용합니다.
 <details>
 <summary><b>다른 프로젝트와 학습 기록</b></summary>
 
-| 프로젝트 | 기술과 작업 내용 | 링크 |
-| :--- | :--- | :--- |
-| Last Man Standing | UE5, RPC·Replication, Listen Server와 Steam 세션 | [상세](https://app.notion.com/p/38e9bbc7078b8194ac2fda8bf1227cfd) |
-| Boss Raid / GAS | UE5, Behavior Tree 보스 AI, 전투 Montage, 장비·HUD | [상세](https://app.notion.com/p/38e9bbc7078b81abb8f3dba59de69669) |
-| 강남스퀘어 | UE4, ProudNet 동기화, 채팅·인벤토리, Android 배포 | [상세](https://app.notion.com/p/38e9bbc7078b811589f2d511abdc8359) |
-| SODA / Jelly Tetris | Unity, 센서 입력·진동, Grid 판정과 소프트 바디 | [상세](https://app.notion.com/p/38e9bbc7078b81fa8b79f304bd88e38d) |
-| OpenGL A* | 경로 탐색과 장애물 배치 시각화 | [코드](https://github.com/chickenbuger/OpenGL-A-) |
-| Vector Field | 벡터장·중력장 시각화 | [코드](https://github.com/chickenbuger/VectorField) |
-| Position Based Dynamics | 위치 기반 물리 시뮬레이션 학습 | [코드](https://github.com/chickenbuger/PositionBasedDynamic) |
-| DirectX 기초 | 렌더링 환경 구성과 D3DClass 구조화 | [코드](https://github.com/chickenbuger/Project_DXF) |
+| 프로젝트 | 기술과 작업 내용 |
+| :--- | :--- |
+| [Last Man Standing](https://app.notion.com/p/38e9bbc7078b8194ac2fda8bf1227cfd) | UE5, RPC·Replication, Listen Server와 Steam 세션 |
+| Boss Raid / GAS | UE5, Behavior Tree 보스 AI, 전투 Montage, 장비·HUD |
+| 강남스퀘어 | UE4, ProudNet 동기화, 채팅·인벤토리, Android 배포 |
+| SODA / Jelly Tetris | Unity, 센서 입력·진동, Grid 판정과 소프트 바디 |
+| [OpenGL A*](https://github.com/chickenbuger/OpenGL-A-) | 경로 탐색과 장애물 배치 시각화 |
+| [Vector Field](https://github.com/chickenbuger/VectorField) | 벡터장·중력장 시각화 |
+| [Position Based Dynamics](https://github.com/chickenbuger/PositionBasedDynamic) | 위치 기반 물리 시뮬레이션 학습 |
+| [DirectX 기초](https://github.com/chickenbuger/Project_DXF) | 렌더링 환경 구성과 D3DClass 구조화 |
 
 </details>
 
