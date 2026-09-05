@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">Choi Jinsoo — Game Client Developer</title>
+<desc id="desc">Unreal Engine and C++ developer. Gameplay, UI and network systems.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1728"/><stop offset="1" stop-color="#142D3E"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#18B8D9"/><stop offset="1" stop-color="#88EDCE"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#B5DEEB" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1000" height="300" rx="14" fill="url(#bg)"/>
+<rect width="1000" height="300" rx="14" fill="url(#grid)"/>
+<path d="M0 286H1000V300H0Z" fill="url(#accent)" opacity=".9"/>
+<rect x="44" y="38" width="26" height="3" rx="1.5" fill="#68DFE7"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+  <text x="83" y="46" fill="#9FB8C8" font-size="14" letter-spacing="3.5" font-weight="600">CHOI JINSOO</text>
+  <text x="42" y="114" fill="#F1F7FB" font-size="49" font-weight="750" letter-spacing="-1.5">GAME CLIENT</text>
+  <text x="42" y="178" fill="#F1F7FB" font-size="62" font-weight="750" letter-spacing="-2">DEVELOPER</text>
+  <text x="46" y="230" fill="#70E1E6" font-size="16" font-weight="600" letter-spacing="2.1">UNREAL ENGINE / C++</text>
+  <text x="704" y="253" fill="#A1BBCB" font-size="11" letter-spacing="2">GAMEPLAY · UI · NETWORK</text>
+</g>
+<g fill="none" stroke-linejoin="round">
+  <path d="M624 42V246M952 42V222" stroke="#769CB7" stroke-opacity=".15"/>
+  <path d="M684 66l124-48 124 48v126l-124 49-124-49Z" stroke="#457084" stroke-opacity=".55"/>
+  <path d="M684 66l124 50 124-50M808 116v125" stroke="#457084" stroke-opacity=".55"/>
+  <path d="M726 91l82-32 82 32v83l-82 32-82-32Z" fill="#18B8D9" fill-opacity=".035" stroke="#5EDAE2" stroke-width="1.5"/>
+  <path d="M726 91l82 33 82-33M808 124v82" stroke="#5EDAE2" stroke-width="1.5"/>
+  <path d="M763 118l45-18 45 18v42l-45 18-45-18Z" stroke="#F4B37D" stroke-width="1.5"/>
+  <path d="M763 118l45 18 45-18M808 136v42" stroke="#F4B37D" stroke-width="1.5"/>
+  <path d="M660 66h14m-7-7v14M937 210h14m-7-7v14" stroke="#87A4B6"/>
+</g>
+<g fill="#70E1E6"><circle cx="726" cy="91" r="3"/><circle cx="890" cy="91" r="3"/><circle cx="808" cy="206" r="3"/></g>
+</svg>
